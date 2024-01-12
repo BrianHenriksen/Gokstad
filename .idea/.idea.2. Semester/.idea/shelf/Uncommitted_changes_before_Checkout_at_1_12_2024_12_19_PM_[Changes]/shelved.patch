@@ -1,0 +1,19 @@
+Index: 2. Semester/Program.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>namespace _2._Semester;\r\n\r\nclass Program\r\n{\r\n    static void Main(string[] args)\r\n    {\r\n        Console.WriteLine(\"This is a test message for Github\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/2. Semester/Program.cs b/2. Semester/Program.cs
+--- a/2. Semester/Program.cs	
++++ b/2. Semester/Program.cs	
+@@ -4,6 +4,6 @@
+ {
+     static void Main(string[] args)
+     {
+-        Console.WriteLine("This is a test message for Github");
++        Console.WriteLine("This is the First test message for Github");
+     }
+ }
+\ No newline at end of file
